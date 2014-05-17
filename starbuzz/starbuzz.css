@@ -1,0 +1,21 @@
+/* CSS Document */
+/*Element specific styles*/
+body {
+	background-color:#d2b48c;
+	margin-left: 20%;
+	margin-right: 20%;
+	border:2px dotted black;
+	padding=10px 10px 10px 10px;
+	font-family=sans-serf;
+}
+h1
+{
+	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif
+}
+
+.missionHeader
+{
+	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	align-content:center;
+}
+
